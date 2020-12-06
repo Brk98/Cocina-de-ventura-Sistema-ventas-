@@ -1,0 +1,48 @@
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csprojAssemblyReference.cache
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Properties.Resources.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csproj.GenerateResource.cache
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csproj.CoreCompileInputs.cache
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\La Cocina de Ventura2.exe.config
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\La Cocina de Ventura2.exe
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\La Cocina de Ventura2.pdb
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.exe
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.pdb
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Login.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Form2.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.GorditasMenu.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.QuesadillasMenu.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.SopesTacosMenu.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.BebidasMenu.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.EspecialesMenu.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.TortasMenu.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Precios.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.Gerente.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Reportes.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Ventas.resources
+C:\Users\elpel\source\repos\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Estadisticas.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\La Cocina de Ventura2.exe.config
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\La Cocina de Ventura2.exe
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\La Cocina de Ventura2.pdb
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csprojAssemblyReference.cache
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Login.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Form2.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Estadisticas.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Precios.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Reportes.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Gerente.Ventas.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.BebidasMenu.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.EspecialesMenu.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.Gerente.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.GorditasMenu.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.QuesadillasMenu.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.SopesTacosMenu.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Menu.TortasMenu.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La_Cocina_de_Ventura2.Properties.Resources.resources
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csproj.GenerateResource.cache
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csproj.CoreCompileInputs.cache
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.exe
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.pdb
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\MySql.Data.dll
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\Google.Protobuf.dll
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\bin\Debug\MySql.Data.xml
+D:\braya\Documents\Universidad\Septimo semestre\Implantacion de sistemas\Software\La Cocina de Ventura2\La Cocina de Ventura2\obj\Debug\La Cocina de Ventura2.csproj.CopyComplete

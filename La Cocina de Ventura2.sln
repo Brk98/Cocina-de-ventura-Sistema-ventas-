@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "La Cocina de Ventura2", "La Cocina de Ventura2\La Cocina de Ventura2.csproj", "{113FE38E-57FF-4527-AF88-96C5C03C76DA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetUp", "SetUp\SetUp.vdproj", "{814B43CB-2C98-408C-B454-289BDECFDFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113FE38E-57FF-4527-AF88-96C5C03C76DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113FE38E-57FF-4527-AF88-96C5C03C76DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113FE38E-57FF-4527-AF88-96C5C03C76DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113FE38E-57FF-4527-AF88-96C5C03C76DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814B43CB-2C98-408C-B454-289BDECFDFEB}.Debug|Any CPU.ActiveCfg = Debug
+		{814B43CB-2C98-408C-B454-289BDECFDFEB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01BC34F-6B3E-4D91-B02D-C925D8FD91AC}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
